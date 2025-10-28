@@ -1,5 +1,6 @@
 {
   "latestVersion": "1.0.3",
   "minimumVersion": "1.0.2",
-  "forceUpdateMessage": "A new version of the game is available! Please update to continue playing."
+  "forceUpdateMessage": "A new version of the game is available! Please update to continue playing.",
+  "Testing": true
 }
