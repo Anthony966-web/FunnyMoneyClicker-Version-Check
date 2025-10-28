@@ -4,5 +4,5 @@
   "forceUpdateMessage": "A critical update is required to continue.",
   "updateUrl": "https://storepage.link/yourgame",
   "news": "Halloween Event is live!",
-  "Testing": true
+  "testing": true
 }
